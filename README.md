@@ -11,7 +11,8 @@
 ### 🛠 &nbsp;Tech Stack
 <br>
 <img align="left" alt="VSCODE" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" />
-<img align="left" alt="VSCODE" width="30px" src="https://img.icons8.com/fluent/50/000000/android-os.png" />
+<img align="left" alt="VSCODE" width="30px" src="https://img.icons8.com/color/48/000000/android-os.png" />
+<img align="left" alt="VSCODE" width="30px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 <img align="left" alt="PYTHON" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />
 <img align="left" alt="C" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />
 <img align="left" alt="CPP" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />
@@ -19,6 +20,12 @@
 <img align="left" alt="VSCODE" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />
 <img align="left" alt="VSCODE" width="30px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 
+<br><br>
+### 🔗 &nbsp;Connect with me:
+
+<a href="https://www.instagram.com/adityad3901/"><img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
+<a href="https://www.facebook.com/aditya.das.3150/"><img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href="https://www.linkedin.com/in/aditya-das-86069b202/"><img align="left" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 <br><br>
 ### ⚙️ &nbsp;GitHub Analytics
