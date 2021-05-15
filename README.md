@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya Das 👋
+### Hi there, I'm Aditya 👋
 
 
 - 🔭 I’m currently working on Android Weather App 🌤 ⛈
