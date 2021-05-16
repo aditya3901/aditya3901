@@ -10,15 +10,15 @@
 
 ### 🛠 &nbsp;Tech Stack
 <br>
-<img align="left" alt="VSCODE" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" />
-<img align="left" alt="VSCODE" width="30px" src="https://img.icons8.com/color/48/000000/android-os.png" />
-<img align="left" alt="VSCODE" width="30px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
-<img align="left" alt="PYTHON" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />
-<img align="left" alt="C" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />
-<img align="left" alt="CPP" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />
-<img align="left" alt="VSCODE" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="VSCODE" width="30px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />
-<img align="left" alt="VSCODE" width="30px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+<img align="left" alt="VSCODE" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" />
+<img align="left" alt="VSCODE" width="40px" src="https://img.icons8.com/color/48/000000/android-os.png" />
+<img align="left" alt="VSCODE" width="40px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
+<img align="left" alt="PYTHON" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />
+<img align="left" alt="C" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />
+<img align="left" alt="CPP" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />
+<img align="left" alt="VSCODE" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="VSCODE" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />
+<img align="left" alt="VSCODE" width="40px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 
 <br><br>
 <br>
