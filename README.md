@@ -11,6 +11,7 @@
 ### 🛠 &nbsp;Tech Stack
 <br>
 <img align="left" alt="VSCODE" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/java.svg" />
+<img align="left" alt="VSCODE" width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/kotlin-seeklogo.com.svg" />
 <img align="left" alt="VSCODE" width="40px" src="https://img.icons8.com/color/48/000000/android-os.png" />
 <img align="left" alt="VSCODE" width="40px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 <img align="left" alt="PYTHON" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />
