@@ -6,7 +6,7 @@
 - 💬 Ask me about Android or related topics
 - 📫 How to reach me: Insta - @adityad3901
 - 😄 Pronouns: He/His 🕵️
-- ⚡ Fun fact: I love PUBG 😂
+<!-- ⚡ Fun fact: -->
 
 ### 🛠 &nbsp;Tech Stack
 <br>
