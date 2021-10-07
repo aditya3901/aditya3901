@@ -37,3 +37,4 @@
   <p>&nbsp;<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya3901&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></p>
 </details>
 
+![](https://activity-graph.herokuapp.com/graph?username=aditya3901&theme=redical)
