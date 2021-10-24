@@ -35,3 +35,4 @@ Hi there, I'm Aditya 👋
 </details>
 
 ![](https://activity-graph.herokuapp.com/graph?username=aditya3901&theme=redical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya3901&layout=compact&theme=tokyonight&langs_count=10)
