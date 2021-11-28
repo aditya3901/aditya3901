@@ -28,11 +28,9 @@ Hi there, I'm Aditya 👋
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <br />
-  <p>&nbsp;<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya3901&hide=issues&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></p>
-</details>
+<p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya3901&hide=issues&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya3901&layout=compact&theme=tokyonight&langs_count=10"/>
+</p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=aditya3901&theme=redical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya3901&layout=compact&theme=tokyonight&langs_count=10)
