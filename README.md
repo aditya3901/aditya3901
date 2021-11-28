@@ -10,7 +10,7 @@ Hi there, I'm Aditya 👋
 |<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/flutter.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/dart.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/java2.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/androidstudio.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/kotlin.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/android.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/c.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/cpp.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/git.png" />|
 |-|-|-|-|-|-|-|-|-|
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">🔗 &nbsp;Connect with me:</h4>
 
 |<a href="https://www.instagram.com/adityad3901/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>|<a href="https://www.facebook.com/aditya.das.3150/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>|<a href="https://www.linkedin.com/in/aditya-das-86069b202/"><img width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>|
 |-|-|-|
