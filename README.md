@@ -21,3 +21,5 @@ Hi there, I'm Aditya 👋
 |-|-|
 
 ![](https://activity-graph.herokuapp.com/graph?username=aditya3901&theme=redical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya3901&theme=dark)](https://git.io/streak-stats)
