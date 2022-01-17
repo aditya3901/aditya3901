@@ -2,9 +2,6 @@
 Hi there, I'm Aditya 👋
 </h3>
 
-<!-- 🔭 I’m currently working on Android Weather App 🌤 ⛈-->
-<!-- ⚡ Fun fact: -->
-
 <h4 align="left">🛠 &nbsp;Tech Stack</h4>
 
 |<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/flutter.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/dart.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/java2.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/androidstudio.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/kotlin.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/android.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/c.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/cpp.png" />|<img width="40px" src="https://github.com/aditya3901/aditya3901/blob/main/git.png" />|
@@ -17,7 +14,7 @@ Hi there, I'm Aditya 👋
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-|<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya3901&hide=issues&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)"/>|<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya3901&layout=compact&theme=tokyonight&langs_count=10)"/>|
+|<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditya3901&&show_icons=true&hide=issues&theme=tokyonight"/>|<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya3901&layout=compact&theme=tokyonight&langs_count=8)"/>|
 |-|-|
 
 ![](https://activity-graph.herokuapp.com/graph?username=aditya3901&theme=redical)
