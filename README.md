@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Aditya Das</h2>
-<h3 align="center">A self-taught full-stack developer from India</h3>
+<h2 align="center">Hi 👋, I'm Aditya</h2>
+<h3 align="center">A self-taught full-stack developer!</h3>
 
 <h4 align="left">🛠 &nbsp;Tech Stack</h4>
 
